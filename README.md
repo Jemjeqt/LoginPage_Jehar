@@ -1,15 +1,4 @@
-# 🌟 Login Page Landing
-
-
-
-
-## 📈 Roadmap
-
-- [x] 🎨 Desain UI/UX
-- [x] 💻 Pembuatan Frontend
-- [ ] 🔒 Implementasi Keamanan
-- [ ] 📱 Optimasi Mobile
-- [ ] 🚀 Deploy ke Production
+# 💻 Login Page Landing
 
 
 ## 📝 Lisensi
